@@ -1,0 +1,3 @@
+2023-10-23T09:49:19.585Z [INFO] [auth] Logged in as fffukeyyy
+2023-10-23T09:49:21.198Z [INFO] [auth] Invalid copilot token: missing token: 403 
+2023-10-23T09:49:21.200Z [ERROR] [extension] GitHub Copilot could not connect to server. Extension activation failed: "No access to GitHub Copilot found. You are currently logged in as fffukeyyy."

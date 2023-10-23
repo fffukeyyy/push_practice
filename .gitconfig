@@ -1,0 +1,7 @@
+[user]
+	name = fffukeyyy
+	email = fukey1103@icloud.com
+[init]
+	defaultBranch = main
+[core]
+	editor = code --wait

@@ -1,0 +1,288 @@
+2023-10-23 09:25:58.287 [trace] Remote configuration data at /home/vscode/.vscode-remote
+2023-10-23 09:25:58.287 [trace] process arguments: {"_":[],"host":"127.0.0.1","port":"0","connection-token-file":"/home/vscode/.vscode-remote/data/Machine/.connection-token-f1b07bd25dfad64b0167beb15359ae573aecd2cc","without-connection-token":false,"disable-websocket-compression":false,"print-startup-performance":false,"print-ip-address":false,"accept-server-license-terms":true,"server-data-dir":"/home/vscode/.vscode-remote","enable-smoke-test-driver":false,"disable-telemetry":false,"disable-workspace-trust":false,"log":["trace"],"force-disable-user-env":true,"enable-sync":false,"use-test-resolver":false,"extensions-download-dir":"/home/vscode/.vscode-remote/extensionsCache","install-extension":["ms-azuretools.vscode-docker","dbaeumer.vscode-eslint","github.copilot","loiane.ts-extension-pack","mechatroner.rainbow-csv","mhutchie.git-graph","mikestead.dotenv","ms-vsliveshare.vsliveshare","ms-vscode.live-server","prisma.prisma"],"install-builtin-extension":["GitHub.vscode-pull-request-github","github.github-vscode-theme","github.codespaces"],"list-extensions":false,"show-versions":false,"force":false,"do-not-sync":true,"pre-release":false,"start-server":true,"enable-remote-auto-shutdown":true,"remote-auto-shutdown-without-delay":false,"use-host-proxy":false,"without-browser-env-var":false,"help":false,"version":false,"user-data-dir":"/home/vscode/.vscode-remote/data","builtin-extensions-dir":"/vscode/bin/linux-x64/f1b07bd25dfad64b0167beb15359ae573aecd2cc/extensions","extensions-dir":"/home/vscode/.vscode-remote/extensions","logsPath":"/home/vscode/.vscode-remote/data/logs/20231023T092558"}
+2023-10-23 09:25:58.287 [info] 
+
+
+
+
+2023-10-23 09:25:58.287 [trace] [File Watcher (node.js)] Request to start watching: /home/vscode/.vscode-remote/data/Machine (excludes: <none>, includes: <all>),/home/vscode/.vscode-remote/data/Machine/settings.json (excludes: <none>, includes: <all>)
+2023-10-23 09:25:58.287 [trace] Installing builtin extensions passed via args...
+2023-10-23 09:25:58.287 [trace] Started scanning user extensions {"$mid":1,"external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2023-10-23 09:25:58.287 [trace] Installing extensions passed via args...
+2023-10-23 09:25:58.287 [info] Extension host agent started.
+2023-10-23 09:25:58.299 [trace] [File Watcher (node.js)] Request to start watching: /home/vscode/.vscode-remote/extensions (excludes: <none>, includes: <all>)
+2023-10-23 09:25:58.303 [info] Started initializing default profile extensions in extensions installation folder. file:///home/vscode/.vscode-remote/extensions
+2023-10-23 09:25:58.303 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions","external":"file:///home/vscode/.vscode-remote/extensions","path":"/home/vscode/.vscode-remote/extensions","scheme":"file"}
+2023-10-23 09:25:58.304 [trace] [File Watcher (node.js)] Started watching: '/home/vscode/.vscode-remote/data/Machine'
+2023-10-23 09:25:58.311 [trace] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/vscode/.vscode-remote/data/Machine/settings.json'
+2023-10-23 09:25:58.313 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/dbaeumer.vscode-eslint-2.4.2
+2023-10-23 09:25:58.314 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/vscjava.vscode-java-dependency-0.23.2023100802
+2023-10-23 09:25:58.314 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/vscjava.vscode-java-test-0.40.2023101002
+2023-10-23 09:25:58.314 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/esbenp.prettier-vscode-10.1.0
+2023-10-23 09:25:58.317 [trace] [File Watcher (node.js)] Started watching: '/home/vscode/.vscode-remote/extensions'
+2023-10-23 09:25:58.319 [debug] ComputeTargetPlatform: linux-x64
+2023-10-23 09:25:58.320 [trace] Scanned user extensions: 0
+2023-10-23 09:25:58.321 [trace] [File Watcher (node.js)] [raw] ["rename"] extensions.json
+2023-10-23 09:25:58.321 [trace] [File Watcher (node.js)] [raw] ["change"] extensions.json
+2023-10-23 09:25:58.321 [trace] [File Watcher (node.js)] [ADDED] /home/vscode/.vscode-remote/extensions/extensions.json
+2023-10-23 09:25:58.352 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/vscode/.vscode-remote/extensions
+2023-10-23 09:25:58.355 [trace] [File Watcher (node.js)] Request to start watching: /home/vscode/.vscode-remote/extensions/extensions.json (excludes: <none>, includes: <all>)
+2023-10-23 09:25:58.356 [trace] Scanned user extensions: 0
+2023-10-23 09:25:58.358 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions","external":"file:///home/vscode/.vscode-remote/extensions","path":"/home/vscode/.vscode-remote/extensions","scheme":"file"}
+2023-10-23 09:25:58.359 [debug] ComputeTargetPlatform: linux-x64
+2023-10-23 09:25:58.361 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2023-10-23 09:25:58.389 [trace] [File Watcher (node.js)] Started watching: '/home/vscode/.vscode-remote/extensions/extensions.json'
+2023-10-23 09:25:58.391 [trace] Scanned user extensions: 0
+2023-10-23 09:25:58.398 [trace] [File Watcher (node.js)] >> normalized [ADDED] /home/vscode/.vscode-remote/extensions/extensions.json
+2023-10-23 09:25:58.422 [trace] [File Watcher (node.js)] [CHANGED] /home/vscode/.vscode-remote/extensions/extensions.json
+2023-10-23 09:25:58.497 [trace] [File Watcher (node.js)] >> normalized [CHANGED] /home/vscode/.vscode-remote/extensions/extensions.json
+2023-10-23 09:25:58.629 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2023-10-23 09:25:59.012 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2023-10-23 09:25:59.012 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2023-10-23 09:25:59.012 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2023-10-23 09:25:59.081 [info] Installing builtin extension 'github.github-vscode-theme'...
+2023-10-23 09:25:59.083 [trace] ExtensionManagementService.refreshReportedCache
+2023-10-23 09:25:59.086 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2023-10-23 09:25:59.102 [info] Installing builtin extension 'github.codespaces'...
+2023-10-23 09:25:59.104 [info] Installing builtin extension 'github.vscode-pull-request-github'...
+2023-10-23 09:25:59.171 [trace] ExtensionManagementService.refreshControlCache {"malicious":[{"id":"visualstuiocode.emmet"},{"id":"joaomoreno.banana"},{"id":"JacobeanResearchandDevelopmentLLC.vscode-scxml-preview"},{"id":"joaquin6.package-watch"},{"id":"KazuoCode.gthubsum"},{"id":"MaxGotovkin.tslens"},{"id":"stephen-riley.regexworkbench"},{"id":"guozebin.api-generator-plugin"},{"id":"code-tester.code-tester"},{"id":"viralvaghela.darkcbtheme"},{"id":"viralvaghela.normalnameimgtest"},{"id":"k3s0externobyes.k3s0externobyes"},{"id":"testUseracc1111.python-vscode"},{"id":"NealKornet.theme-darcula-dark"},{"id":"FlydCode.codelinter"},{"id":"FlydCode.codewithfriends"},{"id":"benawad.vsinder"},{"id":"BXDS-DLP.BXDS-DLP"},{"id":"kyntrack.log-matrix"},{"id":"kyntrack.track-vscode"}],"deprecated":{"github.vscode-pull-request-github-insiders":{"disallowInstall":true,"extension":{"id":"github.vscode-pull-request-github","displayName":"GitHub Pull Requests and Issues","autoMigrate":{"storage":false},"preRelease":true}},"julialang.language-julia-insider":{"disallowInstall":true,"extension":{"id":"julialang.language-julia","displayName":"Julia","autoMigrate":{"storage":false},"preRelease":true}},"ms-vscode-remote.remote-ssh-nightly":{"disallowInstall":true,"extension":{"id":"ms-vscode-remote.remote-ssh","displayName":"Remote - SSH","autoMigrate":{"storage":false},"preRelease":true}},"ms-vscode-remote.remote-ssh-edit-nightly":{"disallowInstall":true,"extension":{"id":"ms-vscode-remote.remote-ssh-edit","displayName":"Remote - SSH: Editing Configuration Files","autoMigrate":{"storage":false},"preRelease":true}},"eamodio.gitlens-insiders":{"disallowInstall":true,"extension":{"id":"eamodio.gitlens","displayName":"GitLens — Git supercharged","autoMigrate":{"storage":false},"preRelease":true}},"ms-vscode.powershell-preview":{"disallowInstall":true,"extension":{"id":"ms-vscode.PowerShell","displayName":"PowerShell","autoMigrate":{"storage":false},"preRelease":true}},"hashicorp.terraform-preview":{"disallowInstall":true,"extension":{"id":"HashiCorp.terraform","displayName":"HashiCorp Terraform","autoMigrate":{"storage":false},"preRelease":true}},"github.copilot-nightly":{"disallowInstall":true,"extension":{"id":"github.copilot","displayName":"GitHub Copilot","autoMigrate":{"storage":false},"preRelease":true}},"devondcarew.bazel-code":{"disallowInstall":true,"extension":{"id":"BazelBuild.vscode-bazel","displayName":"Bazel"}},"mnxn.ocaml-mll-mly":{"disallowInstall":true,"extension":{"id":"ocamllabs.ocaml-platform","displayName":"OCaml Platform"}},"mnxn.lalrpop-highlight":{"disallowInstall":true,"extension":{"id":"Guyutongxue.lalrpop-syntax-highlight","displayName":"Lalrpop Syntax Highlight"}},"andrewbeletskiy.sort-css-rules":{"disallowInstall":true,"extension":{"id":"AndrewBeletskiy.sort-css-declarations","displayName":"sort-css-declarations"}},"msjsdiag.debugger-for-chrome-nightly":{"disallowInstall":true,"extension":{"id":"ms-vscode.js-debug-nightly","displayName":"JavaScript Debugger (Nightly)"}},"msjsdiag.debugger-for-chrome":{"disallowInstall":true,"extension":{"id":"ms-vscode.js-debug","displayName":"JavaScript Debugger"}},"adashen.vscode-tomcat":{"disallowInstall":true,"extension":{"id":"redhat.vscode-community-server-connector","displayName":"Community Server Connectors"}},"summersun.vscode-jetty":{"disallowInstall":true,"extension":{"id":"redhat.vscode-community-server-connector","displayName":"Community Server Connectors"}},"abusaidm.html-snippets":{},"ms-vscode.vscode-typescript-tslint-plugin":{},"eg2.tslint":{},"zenclabs.reactpreview":{"disallowInstall":true,"extension":{"id":"zenclabs.previewjs","displayName":"Preview.js"}},"auchenberg.vscode-browser-preview":{"disallowInstall":false,"extension":{"id":"ms-vscode.live-server","displayName":"Live Preview"}},"donjayamanne.jupyter":{"disallowInstall":true,"extension":{"id":"ms-toolsai.jupyter","displayName":"Jupyter"}},"awwsky.csharpfixformatfixed":{"disallowInstall":true,"extension":{"id":"ms-dotnettools.csharp","displayName":"C#"}},"cadenas.vscode-glsllint":{"disallowInstall":true,"extension":{"id":"dtoplak.vscode-glsllint","displayName":"GLSL Lint"}},"tiibun.vscode-docker-ws":{"disallowInstall":true,"extension":{"id":"ms-vscode-remote.remote-containers","displayName":"Dev Containers"}},"ballerina.ballerina":{"disallowInstall":true,"extension":{"id":"WSO2.ballerina","displayName":"Ballerina"}},"correctnesslab.dafny-vscode":{"disallowInstall":true,"extension":{"id":"dafny-lang.ide-vscode","displayName":"Dafny"}},"elixir-lsp.elixir-ls":{"disallowInstall":true,"extension":{"id":"JakeBecker.elixir-ls","displayName":"ElixirLS: Elixir support and debugger"}},"smeagolem.ayu-one-dark-pro":{"disallowInstall":true,"extension":{"id":"zhuangtongfa.Material-theme","displayName":"One Dark Pro"}},"jpogran.puppet-vscode":{"disallowInstall":true,"extension":{"id":"puppet.puppet-vscode","displayName":"Puppet"}},"ibm.xmllanguagesupport":{"disallowInstall":true,"extension":{"id":"redhat.vscode-xml","displayName":"XML"}},"ms-vscode.latex":{"disallowInstall":true,"extension":{"id":"James-Yu.latex-workshop","displayName":"LaTeX Workshop"}},"axetroy.vscode-deno":{"disallowInstall":true,"extension":{"id":"denoland.vscode-deno","displayName":"Deno"}},"justjavac.vscode-deno":{"disallowInstall":true,"extension":{"id":"denoland.vscode-deno","displayName":"Deno"}},"doublefint.vscode-cos":{"disallowInstall":true,"extension":{"id":"intersystems-community.vscode-objectscript","displayName":"InterSystems ObjectScript"}},"rust-lang.rust":{"disallowInstall":true,"extension":{"id":"rust-lang.rust-analyzer","displayName":"rust-analyzer"}},"freebroccolo.reasonml":{"disallowInstall":true,"extension":{"id":"ocamllabs.ocaml-platform","displayName":"OCaml Platform"}},"knisterpeter.vscode-github":{"disallowInstall":true,"extension":{"id":"GitHub.vscode-pull-request-github","displayName":"GitHub Pull Requests and Issues"}},"antfu.vue-i18n-ally":{"disallowInstall":true,"extension":{"id":"lokalise.i18n-ally","displayName":"i18n Ally"}},"antfu.i18n-ally":{"disallowInstall":true,"extension":{"id":"lokalise.i18n-ally","displayName":"i18n Ally"}},"haaleo.vscode-stylint":{"disallowInstall":true,"extension":{"id":"stylelint.vscode-stylelint","displayName":"Stylint"}},"snooz82.rf-intellisense":{"disallowInstall":true},"keith.robotframework":{"disallowInstall":true},"slevesque.vscode-hexdump":{"disallowInstall":true,"extension":{"id":"ms-vscode.hexeditor","displayName":"Hex Editor"}},"togusa09.tmlanguage":{"disallowInstall":true,"extension":{"id":"pedro-w.tmlanguage","displayName":"TextMate Languages"}},"slevesque.perforce":{"disallowInstall":true,"extension":{"id":"mjcrouch.perforce","displayName":"New Perforce for VS Code"}},"raagh.angular-karma-test-explorer":{"disallowInstall":true,"extension":{"id":"lucono.karma-test-explorer","displayName":"Karma Test Explorer for Angular, Jasmine, and Mocha"}},"ritwickdey.live-sass":{"disallowInstall":true,"extension":{"id":"glenn2223.live-sass","displayName":"New Live Sass Compiler"}},"redhat.vscode-didact":{"disallowInstall":false,"extension":{"id":"vsls-contrib.codetour","displayName":"CodeTour"}},"camel-tooling.atlasmap-viewer":{"disallowInstall":false,"extension":{"id":"redhat.atlasmap-viewer","displayName":"AtlasMap Data Transformation editor by Red Hat"}},"imperez.smarty":{"disallowInstall":true,"extension":{"id":"aswinkumar863.smarty-template-support","displayName":"Smarty Template Support"}},"badochov.ocaml-formatter":{"disallowInstall":true,"extension":{"id":"ocamllabs.ocaml-platform","displayName":"OCaml Platform"}},"damirka.move-ide":{"disallowInstall":true,"extension":{"id":"move.move-analyzer","displayName":"Move Analyzer"}},"sanderledegen.angular-follow-selector":{"disallowInstall":true,"extension":{"id":"Angular.ng-template","displayName":"Angular Language Service"}},"yorkxin.coffeescript-support":{"disallowInstall":true,"extension":{"id":"phil294.coffeesense","displayName":"CoffeeSense"}},"shopify.rubocop-lsp":{"disallowInstall":true,"extension":{"id":"Shopify.ruby-lsp","displayName":"Ruby LSP"}},"tomiturtiainen.rf-intellisense":{"disallowInstall":false},"chenxsan.vscode-standardjs":{"disallowInstall":true,"extension":{"id":"standard.vscode-standard","displayName":"StandardJS - JavaScript Standard Style"}},"idleberg.innosetup":{"disallowInstall":true,"extension":{"id":"Chouzz.vscode-innosetup","displayName":"Inno Setup"}},"dennykorsukewitz.dk4znuny-visualstudiocode":{"disallowInstall":true,"extension":{"id":"dennykorsukewitz.znuny","displayName":"Znuny"}},"xen.vscode-theme-cenhanced":{"disallowInstall":true,"extension":{"id":"Xen.ccpp-theme","displayName":"C/C++ Theme"}},"pluyckx.iar-vsc":{"disallowInstall":true,"extension":{"id":"iarsystems.iar-build","displayName":"IAR Build"}},"stateful.edge":{"disallowInstall":true,"extension":{"id":"stateful.stable","displayName":"Stateful"}},"slevesque.vscode-autohotkey":{"disallowInstall":true,"extension":{"id":"mark-wiemer.vscode-autohotkey-plus-plus","displayName":"AutoHotkey Plus Plus"}},"embertooling.vscode-ember":{"disallowInstall":true,"extension":{"id":"lifeart.vscode-ember-unstable","displayName":"Stable Ember Language Server"}},"embertooling.prettier-for-handlebars-vscode":{"disallowInstall":true,"extension":{"id":"esbenp.prettier-vscode","displayName":"Prettier - Code formatter"}},"liuji-jim.vue":{"disallowInstall":true,"extension":{"id":"Vue.volar","displayName":"Vue Language Features (Volar)"}},"spences10.vscode-vba-icons":{"disallowInstall":false,"extension":{"id":"serkonda7.vscode-vba","displayName":"VBA"}},"spences10.vba":{"disallowInstall":true,"extension":{"id":"serkonda7.vscode-vba","displayName":"VBA"}},"eyhn.vscode-vibrancy":{"disallowInstall":true,"extension":{"id":"illixion.vscode-vibrancy-continued","displayName":"Vibrancy"}},"redvanworkshop.explorer-exclude-vscode-extension":{"disallowInstall":true,"extension":{"id":"PeterSchmalfeldt.explorer-exclude","displayName":"Explorer Exclude"}},"activecove.osmosis":{"disallowInstall":true,"extension":{"id":"stateful.stable","displayName":"Stateful"}},"trass3r.cxx-compiler-explorer":{"disallowInstall":true,"extension":{"id":"harikrishnan94.cxx-compiler-explorer","displayName":"C/C++ Compiler Explorer"}},"jcbuisson.vue":{"disallowInstall":true,"extension":{"id":"Vue.volar","displayName":"Vue Language Features (Volar)"}},"silvenon.mdx":{"disallowInstall":true,"extension":{"id":"unifiedjs.vscode-mdx","displayName":"VSCode MDX"}},"liximomo.sftp":{"disallowInstall":true,"extension":{"id":"Natizyskunk.sftp","displayName":"SFTP"}},"coenraads.bracket-pair-colorizer-2":{"settings":["editor.bracketPairColorization.enabled","editor.guides.bracketPairs"]},"coenraads.bracket-pair-colorizer":{"settings":["editor.bracketPairColorization.enabled","editor.guides.bracketPairs"]},"2gua.rainbow-brackets":{"settings":["editor.bracketPairColorization.enabled","editor.guides.bracketPairs"]},"tyriar.terminal-tabs":{"settings":["terminal.integrated.tabs.enabled"]},"austin.code-gnu-global":{"extension":{"id":"ms-vscode.cpptools","displayName":"C/C++"}},"mkaufman.htmlhint":{"disallowInstall":false,"extension":{"id":"HTMLHint.vscode-htmlhint","displayName":"HTMLHint"}},"aleohq.aleo-instructions-syntax":{"disallowInstall":true,"extension":{"id":"aleohq.aleo-developer-extension","displayName":"Aleo Developer"}},"aleohq.leo-language-features-extension":{"disallowInstall":true,"extension":{"id":"aleohq.aleo-developer-extension","displayName":"Aleo Developer"}},"tomaciazek.ansible":{"disallowInstall":true,"extension":{"id":"redhat.ansible","displayName":"Ansible"}},"nextfaze.comment-wrap":{"disallowInstall":true,"extension":{"id":"stkb.rewrap","displayName":"Rewrap"}},"magneet.talkgrammar":{"disallowInstall":true,"extension":{"id":"magneet.prat","displayName":"Prat"}},"philhindle.errorlens":{"disallowInstall":true,"extension":{"id":"usernamehw.errorlens","displayName":"Error Lens"}},"alexeaton.openscad-format":{"disallowInstall":true,"extension":{"id":"Leathong.openscad-language-support","displayName":"OpenSCAD Language Support"}},"efbenson.scad":{"disallowInstall":true,"extension":{"id":"Leathong.openscad-language-support","displayName":"OpenSCAD Language Support"}},"meowcolm024.has-go":{"disallowInstall":true,"extension":{"id":"Meowcolm024.runner2","displayName":"Haskell Runner 2"}},"haneefdm.memview":{"disallowInstall":true,"extension":{"id":"mcu-debug.memory-view","displayName":"MemoryView"}},"avli.clojure":{"disallowInstall":true,"extension":{"id":"betterthantomorrow.calva","displayName":"Calva: Clojure & ClojureScript Interactive Programming"}},"buhlerplctools.gcpro-macro-language":{"disallowInstall":true,"extension":{"id":"buehlerag.buehler-gcpro-macro-language","displayName":"Buhler GCPro Macro Language"}},"prql.prql":{"disallowInstall":true,"extension":{"id":"PRQL-lang.prql-vscode","displayName":"PRQL"}},"jodyh.circleci-vscode":{"disallowInstall":true,"extension":{"id":"circleci.circleci","displayName":"CircleCI"}},"tonsky.clojure-warrior":{"disallowInstall":true,"extension":{"id":"betterthantomorrow.calva","displayName":"Calva: Clojure & ClojureScript Interactive Programming"}},"tao-cumplido.hex-viewer":{"disallowInstall":true,"extension":{"id":"tao-cumplido.inspector-hex","displayName":"Inspector Hex"}},"modyqyw.vscode-uni-app-schemas":{"disallowInstall":true,"extension":{"id":"uni-helper.uni-app-schemas-vscode","displayName":"uni-app-schemas"}},"modyqyw.vscode-uni-app-snippets":{"disallowInstall":true,"extension":{"id":"uni-helper.uni-app-snippets-vscode","displayName":"uni-app-snippets"}},"modyqyw.vscode-uni-cloud-snippets":{"disallowInstall":true,"extension":{"id":"uni-helper.uni-cloud-snippets-vscode","displayName":"uni-cloud-snippets"}},"modyqyw.vscode-uni-helper":{"disallowInstall":true,"extension":{"id":"uni-helper.uni-helper-vscode","displayName":"uni-helper"}},"modyqyw.vscode-uni-ui-snippets":{"disallowInstall":true,"extension":{"id":"uni-helper.uni-ui-snippets-vscode","displayName":"uni-ui-snippets"}},"kellielutze.language-epsilon":{"disallowInstall":true,"extension":{"id":"SamHarris.eclipse-epsilon-languages","displayName":"Eclipse Epsilon Languages"}},"lvjiaxuan.eslint-disable":{"disallowInstall":true,"extension":{"id":"lvjiaxuan.vscode-eslint-disable","displayName":"ESLint Disable"}},"sa2taka.js-go-to-test":{"disallowInstall":true,"extension":{"id":"sa2taka.js-teleporter","displayName":"JS Teleporter"}},"huacnlee.auto-correct":{"disallowInstall":true,"extension":{"id":"huacnlee.autocorrect","displayName":"Auto Correct"}},"nobuhito.printcode":{"disallowInstall":false,"extension":{"id":"pdconsec.vscode-print","displayName":"Print"}},"webososesdk.webosose":{"disallowInstall":true,"extension":{"id":"webOSSDK.webosstudio","displayName":"webOS Studio"}},"wwm.better-align":{"disallowInstall":true,"extension":{"id":"Chouzz.vscode-better-align","displayName":"Better Align"}},"sandipchitale.vscode-kubernetes-commander":{"disallowInstall":true,"extension":{"id":"sandipchitale.vscode-kubernetes-commander-ng","displayName":"Kubernetes Tools"}},"shan.code-settings-sync":{"disallowInstall":true,"additionalInfo":"Please use the built-in [Settings Sync](https://aka.ms/vscode-settings-sync-help) functionality instead."},"dbaeumer.jshint":{"disallowInstall":true,"extension":{"id":"dbaeumer.vscode-eslint","displayName":"ESLint"}},"lindraupe.aw-watcher-vscode":{"disallowInstall":true,"extension":{"id":"activitywatch.aw-watcher-vscode","displayName":"aw-watcher-vscode"}},"ms-kubernetes-tools.porter-vscode":{"disallowInstall":true,"extension":{"id":"getporter.porter-vscode","displayName":"Porter"}},"simonsiefke.prettier-vscode":{"disallowInstall":true,"extension":{"id":"esbenp.prettier-vscode","displayName":"Prettier - Code formatter"}},"mrmlnc.vscode-remark":{"disallowInstall":true,"extension":{"id":"unifiedjs.vscode-remark","displayName":"remark"}},"augusterame.zls-vscode":{"disallowInstall":true,"extension":{"id":"ziglang.vscode-zig","displayName":"Zig Language"}},"tiehuis.zig":{"disallowInstall":true,"extension":{"id":"ziglang.vscode-zig","displayName":"Zig Language"}},"clv.kframework":{"disallowInstall":true,"extension":{"id":"RuntimeVerification.k-vscode","displayName":"K framework"}},"tomcodedthis.blender-pilot":{"disallowInstall":true,"extension":{"id":"tomcodedthis.aikeys","displayName":"AI-Keys"}},"tylerleonhardt.vscode-pester-test-adapter":{"disallowInstall":true,"extension":{"id":"pspester.pester-test","displayName":"Pester Tests"}},"ctanno.lst-view":{"disallowInstall":true,"extension":{"id":"ctanno.gcode-helper","displayName":"gcode-helper"}},"usernamehw.codicon-names":{"disallowInstall":true,"extension":{"id":"usernamehw.commands","displayName":"Commands"}},"usernamehw.change-language-mode":{"disallowInstall":true,"extension":{"id":"usernamehw.commands","displayName":"Commands"}},"gencay.vscode-chatgpt":{"disallowInstall":true,"extension":{"id":"genieai.chatgpt-vscode","displayName":"Chat"}},"ctf0.ghosttext":{"disallowInstall":true,"extension":{"id":"fregante.ghost-text","displayName":"GhostText Official"}},"tokoph.ghosttext":{"disallowInstall":true,"extension":{"id":"fregante.ghost-text","displayName":"GhostText Official"}},"ngyuki.ghosttext":{"disallowInstall":true,"extension":{"id":"fregante.ghost-text","displayName":"GhostText Official"}},"dougfinke.vscode-pandoc":{"disallowInstall":true,"extension":{"id":"ChrisChinchilla.vscode-pandoc","displayName":"vscode-pandoc"}},"zuhanit.epscript-helper":{"disallowInstall":true,"extension":{"id":"zuhanit.eps-server","displayName":"eps-server"}},"errata-ai.vale-server":{"disallowInstall":true,"extension":{"id":"chrischinchilla.vale-vscode","displayName":"Vale VSCode"}},"khanhtranquoc.holistics-aml-extension":{"disallowInstall":true,"extension":{"id":"holistics.holistics-aml-vscode-ext","displayName":"(New) Holistics AML"}},"adammaras.overtype":{"disallowInstall":true,"extension":{"id":"DrMerfy.overtype","displayName":"Overtype"}},"diegolincoln.vscode-styled-components":{"disallowInstall":true,"extension":{"id":"styled-components.vscode-styled-components","displayName":"vscode-styled-components"}},"bycedric.vscode-expo":{"disallowInstall":true,"extension":{"id":"expo.vscode-expo-tools","displayName":"Expo Tools"}},"farrese.rrcfg-tools":{"disallowInstall":true,"extension":{"id":"farrese.midas","displayName":"midas"}},"redhat.vscode-extension-serverless-workflow-editor":{"disallowInstall":true,"extension":{"id":"kie-group.swf-vscode-extension","displayName":"KIE Serverless Workflow Editor"}},"pixelfear.composer-links":{"disallowInstall":true,"extension":{"id":"DEVSENSE.composer-php-vscode","displayName":"Composer"}},"joaompinto.asciidoctor-vscode":{"disallowInstall":true,"extension":{"id":"asciidoctor.asciidoctor-vscode","displayName":"AsciiDoc"}},"gfrsoftware.structurizr-dsl-abacus-extension":{"disallowInstall":true,"extension":{"id":"Elsevier.abacus-structurizr-dsl-extension","displayName":"Abacus Structurizr DSL Extension"}},"emrecankaracayir.winscode-11":{"disallowInstall":true,"extension":{"id":"Codemos.codemos-modern","displayName":"Codemos Modern"}},"jacobclarke.vscode-pandoc":{"disallowInstall":true,"extension":{"id":"ChrisChinchilla.vscode-pandoc","displayName":"vscode-pandoc"}},"conantares.luke-dark-theme":{"disallowInstall":true,"extension":{"id":"ConAntares.Photonica","displayName":"Photonica"}},"noir-lang.noir-programming-language-syntax-highlighter":{"disallowInstall":true,"extension":{"id":"noir-lang.vscode-noir","displayName":"Noir Language Support"}},"ecadlabs.taqueria-vscode":{"disallowInstall":true,"extension":{"id":"PinnacleLabs.taqueria","displayName":"Taqueria (by Pinnacle Labs)"}},"lannonbr.vscode-teddy-snippets":{"disallowInstall":true,"extension":{"id":"RooseveltFrameworkTeam.vscode-teddy","displayName":"Teddy"}},"bungcip.better-toml":{"disallowInstall":true,"extension":{"id":"tamasfe.even-better-toml","displayName":"Even Better TOML"}},"unity.unity-debug":{"disallowInstall":true,"extension":{"id":"visualstudiotoolsforunity.vstuc","displayName":"Unity"}},"deitry.unity-debug":{"disallowInstall":true,"extension":{"id":"visualstudiotoolsforunity.vstuc","displayName":"Unity"}},"godliangcy.routine-reminder":{"disallowInstall":true,"extension":{"id":"younggglcy.simple-routine-reminder","displayName":"Routine Reminder"}},"usqlextpublisher.usql-vscode-ext":{"disallowInstall":true,"extension":{"id":"ms-ssdevteam.scope-vscode-ext","displayName":"SCOPE Studio for VS Code"}},"calliope.al-extension-pack":{"disallowInstall":true,"extension":{"id":"Calliope.innovation-lab-extensions","displayName":"Innovation Lab Extensions"}},"aranard.i18n-ally-ttd-fork":{"disallowInstall":true,"extension":{"id":"lokalise.i18n-ally","displayName":"i18n Ally"}},"heyyczer.fivem2vscode":{"disallowInstall":true,"extension":{"id":"overextended.cfxlua-vscode","displayName":"CfxLua (FiveM/RedM) IntelliSense"}},"iceworks-team.iceworks":{"disallowInstall":true,"extension":{"id":"iceworks-team.appworks","displayName":"AppWorks 2"}},"snyk-security.vscode-vuln-cost":{"disallowInstall":true,"extension":{"id":"snyk-security.snyk-vulnerability-scanner","displayName":"Snyk Security - Code, Open Source Dependencies, IaC Configurations"}},"spectralops.spectral-vscode-extension":{"disallowInstall":true,"extension":{"id":"CheckPoint.spectral-checkpoint-vscode-extension","displayName":"SpectralOps - A CheckPoint Solution"}},"mohitsingh.markdoc":{"disallowInstall":true,"extension":{"id":"Stripe.markdoc-language-support","displayName":"Markdoc language support"}},"doramatadora.fastly-vcl-vscode":{"disallowInstall":true,"extension":{"id":"fastly.vscode-fastly-vcl","displayName":"Fastly Varnish Configuration Language (VCL)"}},"wingrunr21.vscode-ruby":{"disallowInstall":true,"extension":{"id":"Shopify.ruby-lsp","displayName":"Ruby LSP"}},"rebornix.ruby":{"disallowInstall":true,"extension":{"id":"Shopify.ruby-lsp","displayName":"Ruby LSP"}},"esri.arcgis-jsapi-snippets":{"disallowInstall":true,"extension":{"id":"Esri.arcgis-maps-sdk-js-snippets","displayName":"ArcGIS Maps SDK for JavaScript Snippets"}},"ligolang-publish.ligo-debugger-vscode":{"disallowInstall":true,"extension":{"id":"ligolang-publish.ligo-vscode","displayName":"ligo-vscode"}},"waderyan.nodejs-extension-pack":{},"iocave.customize-ui":{},"iocave.monkey-patch":{},"georgewfraser.vscode-tree-sitter":{},"olback.es6-css-minify":{},"redwoodjs.redwood":{},"msoffice.microsoft-office-add-in-debugger":{},"microsoft.merge-conflict-detection":{},"formulahendry.terminal":{},"tyriar.shell-launcher":{},"logerfo.cd-repo":{},"bitlang.bitlangcoboldepreciated":{},"redhat.vscode-datavirt":{},"redhat.datavirt-extension-pack":{},"redhat.vscode-wsdl2rest":{},"nikitakunevich.snippet-creator":{},"ms-vscode.node-debug2":{},"ms-vscode.node-debug":{},"entomy.ada":{},"glen-84.sass-lint":{},"hackwaly.ocaml":{},"jchannon.csharpextensions":{},"hookyqr.beautify":{},"tht13.python":{},"marcusviar.sort-tabs":{},"lonefy.vscode-js-css-html-formatter":{},"tht13.html-preview-vscode":{},"karigari.chat":{},"rbbit.typescript-hero":{},"ikappas.phpcs":{},"qinjia.view-in-browser":{},"hdg.live-html-previewer":{},"dongli.python-preview":{},"sophisticode.php-formatter":{},"peakchen90.vue-beautify":{},"utsavm9.c-cpp-flag-debugging":{},"uvbrain.angular2":{},"coderfee.open-html-in-browser":{},"remimarsal.prettier-now":{},"himanoa.python-autopep8":{},"tht13.gerrit-vscode":{},"dogukanakkaya.chatgpt-code":{},"virgilsisoe.python-auto-import":{},"felipecrs.vscode-gerrit":{},"heptio.jsonnet":{},"eg2.vscode-npm-script":{},"ethan-reesor.vscode-go-test-adapter":{},"aaronpowell.vscode-profile-switcher":{},"nachocab.highlight-dodgy-characters":{},"pthorsson.vscode-jsp":{},"ctf0.htmlhint":{},"cellery.cellery-vscode-extension":{},"vsciot-vscode.vscode-iot-device-cube":{},"ms-azuretools.vscode-azureeventgrid":{},"vsciot-vscode.azure-iot-tools":{},"ms-vsliveshare.vsliveshare-audio":{},"mnxn.fsharp-fsl-fsy":{}},"search":[{"query":"azure","preferredResults":["ms-vscode.vscode-node-azure-pack","ms-azuretools.vscode-azureappservice","ms-azuretools.vscode-azurestorage","ms-azuretools.vscode-cosmosdb"]},{"query":"ai","preferredResults":["github.copilot"]},{"query":"chatgpt","preferredResults":["github.copilot-chat"]},{"query":"github","preferredResults":["github.copilot","github.vscode-pull-request-github","github.github-vscode-theme"]},{"query":"java","preferredResults":["vscjava.vscode-java-pack"]},{"query":"c#","preferredResults":["ms-dotnettools.csdevkit"]},{"query":"unity","preferredResults":["visualstudiotoolsforunity.vstuc"]}]}
+2023-10-23 09:25:59.176 [info] Getting Manifest... github.github-vscode-theme
+2023-10-23 09:25:59.176 [info] Getting Manifest... github.codespaces
+2023-10-23 09:25:59.176 [info] Getting Manifest... github.vscode-pull-request-github
+2023-10-23 09:25:59.177 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2023-10-23 09:25:59.177 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2023-10-23 09:25:59.177 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2023-10-23 09:25:59.203 [info] Installing extension: github.github-vscode-theme
+2023-10-23 09:25:59.204 [trace] Started scanning system extensions
+2023-10-23 09:25:59.205 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2023-10-23 09:25:59.209 [info] Installing extension: github.codespaces
+2023-10-23 09:25:59.209 [trace] Started scanning system extensions
+2023-10-23 09:25:59.209 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2023-10-23 09:25:59.210 [info] Installing extension: github.vscode-pull-request-github
+2023-10-23 09:25:59.212 [trace] Started scanning system extensions
+2023-10-23 09:25:59.212 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2023-10-23 09:25:59.256 [trace] Scanned user extensions: 0
+2023-10-23 09:25:59.304 [trace] Scanned user extensions: 0
+2023-10-23 09:25:59.361 [trace] Scanned system extensions: 31
+2023-10-23 09:25:59.401 [trace] Started scanning system extensions
+2023-10-23 09:25:59.402 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2023-10-23 09:25:59.406 [trace] Scanned user extensions: 0
+2023-10-23 09:25:59.488 [trace] Scanned system extensions: 31
+2023-10-23 09:25:59.522 [trace] Scanned system extensions: 31
+2023-10-23 09:25:59.582 [trace] Started scanning system extensions
+2023-10-23 09:25:59.583 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2023-10-23 09:25:59.616 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2023-10-23 09:25:59.702 [trace] Scanned user extensions: 0
+2023-10-23 09:25:59.774 [trace] Scanned user extensions: 0
+2023-10-23 09:25:59.799 [trace] Scanned system extensions: 31
+2023-10-23 09:25:59.832 [trace] Started scanning system extensions
+2023-10-23 09:25:59.833 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2023-10-23 09:25:59.842 [trace] Scanned system extensions: 31
+2023-10-23 09:25:59.859 [trace] Started scanning system extensions
+2023-10-23 09:25:59.859 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2023-10-23 09:25:59.908 [trace] Scanned user extensions: 0
+2023-10-23 09:25:59.935 [trace] Scanned user extensions: 0
+2023-10-23 09:25:59.979 [trace] Scanned system extensions: 31
+2023-10-23 09:26:00.000 [info] [127.0.0.1][d5a93052][ManagementConnection] New connection established.
+2023-10-23 09:26:00.007 [trace] [127.0.0.1][c2668610][ExtensionHostConnection] - startParams language: ja
+2023-10-23 09:26:00.007 [trace] [127.0.0.1][c2668610][ExtensionHostConnection] - startParams env: {}
+2023-10-23 09:26:00.008 [info] [127.0.0.1][c2668610][ExtensionHostConnection] New connection established.
+2023-10-23 09:26:00.023 [trace] Started scanning system extensions
+2023-10-23 09:26:00.023 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2023-10-23 09:26:00.033 [trace] Scanned system extensions: 31
+2023-10-23 09:26:00.046 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2023-10-23 09:26:00.066 [info] [127.0.0.1][c2668610][ExtensionHostConnection] <819> Launched Extension Host Process.
+2023-10-23 09:26:00.117 [trace] ExtensionGalleryService#downloadSignatureArchive github.github-vscode-theme
+2023-10-23 09:26:00.122 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2023-10-23 09:26:00.134 [trace] ExtensionGalleryService#downloadSignatureArchive github.codespaces
+2023-10-23 09:26:00.134 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2023-10-23 09:26:00.177 [trace] Scanned user extensions: 0
+2023-10-23 09:26:00.309 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2023-10-23 09:26:00.345 [trace] Scanned system extensions: 31
+2023-10-23 09:26:00.375 [trace] Started scanning system extensions
+2023-10-23 09:26:00.376 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2023-10-23 09:26:00.470 [trace] Scanned user extensions: 0
+2023-10-23 09:26:00.497 [warning] Extension signature verification failed with error 'ENOENT': github.github-vscode-theme
+2023-10-23 09:26:00.522 [warning] Extension signature verification failed with error 'ENOENT': github.codespaces
+2023-10-23 09:26:00.529 [trace] Extracting extension... github.github-vscode-theme
+2023-10-23 09:26:00.576 [trace] Scanned system extensions: 31
+2023-10-23 09:26:00.623 [trace] Started scanning system extensions
+2023-10-23 09:26:00.628 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2023-10-23 09:26:00.629 [trace] Started scanning system extensions
+2023-10-23 09:26:00.639 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2023-10-23 09:26:00.640 [trace] Started scanning system extensions
+2023-10-23 09:26:00.640 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2023-10-23 09:26:00.655 [info] Log level changed to info
+2023-10-23 09:26:03.616 [warning] Extension signature verification failed with error 'ENOENT': github.vscode-pull-request-github
+2023-10-23 09:26:04.297 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/github.github-vscode-theme-6.3.4: github.github-vscode-theme
+2023-10-23 09:26:04.333 [info] Renamed to /home/vscode/.vscode-remote/extensions/github.github-vscode-theme-6.3.4
+2023-10-23 09:26:04.339 [info] Extracting extension completed. github.github-vscode-theme
+2023-10-23 09:26:04.390 [info] Extension installed successfully: github.github-vscode-theme
+2023-10-23 09:26:04.405 [info] Extension 'github.github-vscode-theme' v6.3.4 was successfully installed.
+2023-10-23 09:26:04.831 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.74.0: github.vscode-pull-request-github
+2023-10-23 09:26:04.874 [info] Renamed to /home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.74.0
+2023-10-23 09:26:04.902 [info] Extracting extension completed. github.vscode-pull-request-github
+2023-10-23 09:26:04.931 [info] Extension installed successfully: github.vscode-pull-request-github
+2023-10-23 09:26:04.938 [info] Extension 'github.vscode-pull-request-github' v0.74.0 was successfully installed.
+2023-10-23 09:26:05.157 [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '/home/vscode/.vscode-remote/extensions/.4e562f77-00ca-4634-8ced-3f5316946426' failed: No such file or directory (EUNKNOWN) (path: /home/vscode)
+2023-10-23 09:26:05.157 [error] [File Watcher (universal)] restarting watcher after error: inotify_add_watch on '/home/vscode/.vscode-remote/extensions/.4e562f77-00ca-4634-8ced-3f5316946426' failed: No such file or directory
+2023-10-23 09:26:05.274 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/github.codespaces-1.16.0: github.codespaces
+2023-10-23 09:26:05.304 [info] Renamed to /home/vscode/.vscode-remote/extensions/github.codespaces-1.16.0
+2023-10-23 09:26:05.314 [info] Extracting extension completed. github.codespaces
+2023-10-23 09:26:05.334 [info] Extension installed successfully: github.codespaces
+2023-10-23 09:26:05.335 [info] Extension 'github.codespaces' v1.16.0 was successfully installed.
+2023-10-23 09:26:05.336 [info] Installing extensions...
+2023-10-23 09:26:05.362 [info] Installing extensions...
+2023-10-23 09:26:06.338 [info] Installing extension 'ms-ceintl.vscode-language-pack-ja'...
+2023-10-23 09:26:06.343 [info] Installing extension 'mikestead.dotenv'...
+2023-10-23 09:26:06.343 [info] Getting Manifest... mikestead.dotenv
+2023-10-23 09:26:06.347 [info] Installing extension 'ms-vscode.live-server'...
+2023-10-23 09:26:06.347 [info] Getting Manifest... ms-vscode.live-server
+2023-10-23 09:26:06.378 [info] Installing extension 'ms-azuretools.vscode-docker'...
+2023-10-23 09:26:06.378 [info] Getting Manifest... ms-azuretools.vscode-docker
+2023-10-23 09:26:06.381 [info] Installing extension 'prisma.prisma'...
+2023-10-23 09:26:06.386 [info] Getting Manifest... prisma.prisma
+2023-10-23 09:26:06.391 [info] Installing extension 'ms-vsliveshare.vsliveshare'...
+2023-10-23 09:26:06.391 [info] Getting Manifest... ms-vsliveshare.vsliveshare
+2023-10-23 09:26:06.407 [info] Installing extension 'mhutchie.git-graph'...
+2023-10-23 09:26:06.408 [info] Getting Manifest... mhutchie.git-graph
+2023-10-23 09:26:06.415 [info] Installing extension: mikestead.dotenv
+2023-10-23 09:26:06.425 [info] Installing extension: ms-vscode.live-server
+2023-10-23 09:26:06.436 [info] Installing extension: prisma.prisma
+2023-10-23 09:26:06.441 [info] Installing extension 'github.copilot'...
+2023-10-23 09:26:06.442 [info] Getting Manifest... github.copilot
+2023-10-23 09:26:06.450 [info] Installing extension: ms-vsliveshare.vsliveshare
+2023-10-23 09:26:06.500 [info] Installing extension 'loiane.ts-extension-pack'...
+2023-10-23 09:26:06.502 [info] Getting Manifest... loiane.ts-extension-pack
+2023-10-23 09:26:06.521 [info] Installing extension: ms-azuretools.vscode-docker
+2023-10-23 09:26:06.523 [info] Installing extension: mhutchie.git-graph
+2023-10-23 09:26:06.801 [info] Installing extension: github.copilot
+2023-10-23 09:26:06.913 [info] Installing extension 'dbaeumer.vscode-eslint'...
+2023-10-23 09:26:06.934 [info] Getting Manifest... dbaeumer.vscode-eslint
+2023-10-23 09:26:07.152 [info] Installing extension: loiane.ts-extension-pack
+2023-10-23 09:26:07.188 [info] Installing extension 'mechatroner.rainbow-csv'...
+2023-10-23 09:26:07.189 [info] Getting Manifest... mechatroner.rainbow-csv
+2023-10-23 09:26:07.290 [info] Installing extension: dbaeumer.vscode-eslint
+2023-10-23 09:26:07.382 [info] Installing extension: mechatroner.rainbow-csv
+2023-10-23 09:26:08.195 [info] Getting Manifest... ms-ceintl.vscode-language-pack-ja
+2023-10-23 09:26:08.255 [info] Getting Manifest... esbenp.prettier-vscode
+2023-10-23 09:26:08.341 [info] Installing extension: ms-ceintl.vscode-language-pack-ja
+2023-10-23 09:26:08.417 [info] Getting Manifest... christian-kohler.path-intellisense
+2023-10-23 09:26:08.520 [info] Getting Manifest... rbbit.typescript-hero
+2023-10-23 09:26:08.678 [info] Getting Manifest... pmneo.tsimporter
+2023-10-23 09:26:08.782 [info] Getting Manifest... stringham.move-ts
+2023-10-23 09:26:08.911 [info] Getting Manifest... gregorbiswanger.json2ts
+2023-10-23 09:26:08.982 [info] Getting Manifest... github.copilot-chat
+2023-10-23 09:26:09.553 [warning] Extension signature verification failed with error 'ENOENT': ms-azuretools.vscode-docker
+2023-10-23 09:26:09.592 [info] Installing extension: esbenp.prettier-vscode loiane.ts-extension-pack
+2023-10-23 09:26:09.595 [info] Installing extension: christian-kohler.path-intellisense loiane.ts-extension-pack
+2023-10-23 09:26:09.596 [info] Installing extension: rbbit.typescript-hero loiane.ts-extension-pack
+2023-10-23 09:26:09.596 [info] Installing extension: pmneo.tsimporter loiane.ts-extension-pack
+2023-10-23 09:26:09.597 [info] Installing extension: stringham.move-ts loiane.ts-extension-pack
+2023-10-23 09:26:09.598 [info] Installing extension: gregorbiswanger.json2ts loiane.ts-extension-pack
+2023-10-23 09:26:09.705 [warning] Extension signature verification failed with error 'ENOENT': mikestead.dotenv
+2023-10-23 09:26:09.901 [info] Installing extension: github.copilot-chat github.copilot
+2023-10-23 09:26:10.279 [warning] Extension signature verification failed with error 'ENOENT': ms-vscode.live-server
+2023-10-23 09:26:10.727 [warning] Extension signature verification failed with error 'ENOENT': mhutchie.git-graph
+2023-10-23 09:26:10.847 [warning] Extension signature verification failed with error 'ENOENT': prisma.prisma
+2023-10-23 09:26:10.890 [warning] Extension signature verification failed with error 'ENOENT': ms-vsliveshare.vsliveshare
+2023-10-23 09:26:10.925 [warning] Extension signature verification failed with error 'ENOENT': mechatroner.rainbow-csv
+2023-10-23 09:26:10.925 [warning] Extension signature verification failed with error 'ENOENT': dbaeumer.vscode-eslint
+2023-10-23 09:26:11.170 [warning] Extension signature verification failed with error 'ENOENT': ms-ceintl.vscode-language-pack-ja
+2023-10-23 09:26:11.256 [warning] Extension signature verification failed with error 'ENOENT': esbenp.prettier-vscode
+2023-10-23 09:26:11.502 [warning] Extension signature verification failed with error 'ENOENT': christian-kohler.path-intellisense
+2023-10-23 09:26:11.838 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/mikestead.dotenv-1.0.1: mikestead.dotenv
+2023-10-23 09:26:11.866 [warning] Extension signature verification failed with error 'ENOENT': rbbit.typescript-hero
+2023-10-23 09:26:11.890 [warning] Extension signature verification failed with error 'ENOENT': pmneo.tsimporter
+2023-10-23 09:26:11.909 [warning] Extension signature verification failed with error 'ENOENT': github.copilot-chat
+2023-10-23 09:26:11.945 [warning] Extension signature verification failed with error 'ENOENT': gregorbiswanger.json2ts
+2023-10-23 09:26:11.966 [warning] Extension signature verification failed with error 'ENOENT': stringham.move-ts
+2023-10-23 09:26:11.982 [info] Renamed to /home/vscode/.vscode-remote/extensions/mikestead.dotenv-1.0.1
+2023-10-23 09:26:12.031 [info] Extracting extension completed. mikestead.dotenv
+2023-10-23 09:26:12.123 [info] Extension installed successfully: mikestead.dotenv
+2023-10-23 09:26:12.127 [info] Extension 'mikestead.dotenv' v1.0.1 was successfully installed.
+2023-10-23 09:26:12.559 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/dbaeumer.vscode-eslint-2.4.2: dbaeumer.vscode-eslint
+2023-10-23 09:26:13.289 [info] Renamed to /home/vscode/.vscode-remote/extensions/dbaeumer.vscode-eslint-2.4.2
+2023-10-23 09:26:13.310 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/pmneo.tsimporter-2.0.1: pmneo.tsimporter
+2023-10-23 09:26:13.324 [info] Extracting extension completed. dbaeumer.vscode-eslint
+2023-10-23 09:26:13.467 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/ms-vscode.live-server-0.4.11: ms-vscode.live-server
+2023-10-23 09:26:13.603 [info] Extension installed successfully: dbaeumer.vscode-eslint
+2023-10-23 09:26:13.604 [info] Extension 'dbaeumer.vscode-eslint' v2.4.2 was successfully installed.
+2023-10-23 09:26:13.606 [info] Renamed to /home/vscode/.vscode-remote/extensions/pmneo.tsimporter-2.0.1
+2023-10-23 09:26:13.608 [info] Renamed to /home/vscode/.vscode-remote/extensions/ms-vscode.live-server-0.4.11
+2023-10-23 09:26:13.627 [info] Extracting extension completed. pmneo.tsimporter
+2023-10-23 09:26:13.631 [info] Extracting extension completed. ms-vscode.live-server
+2023-10-23 09:26:13.728 [info] Extension installed successfully: ms-vscode.live-server
+2023-10-23 09:26:13.730 [info] Extension 'ms-vscode.live-server' v0.4.11 was successfully installed.
+2023-10-23 09:26:13.808 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/christian-kohler.path-intellisense-2.8.5: christian-kohler.path-intellisense
+2023-10-23 09:26:13.813 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/mhutchie.git-graph-1.30.0: mhutchie.git-graph
+2023-10-23 09:26:13.842 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/mechatroner.rainbow-csv-3.8.0: mechatroner.rainbow-csv
+2023-10-23 09:26:13.854 [info] Renamed to /home/vscode/.vscode-remote/extensions/christian-kohler.path-intellisense-2.8.5
+2023-10-23 09:26:13.868 [info] Renamed to /home/vscode/.vscode-remote/extensions/mhutchie.git-graph-1.30.0
+2023-10-23 09:26:13.878 [info] Extracting extension completed. christian-kohler.path-intellisense
+2023-10-23 09:26:13.885 [info] Renamed to /home/vscode/.vscode-remote/extensions/mechatroner.rainbow-csv-3.8.0
+2023-10-23 09:26:13.891 [info] Extracting extension completed. mhutchie.git-graph
+2023-10-23 09:26:13.922 [info] Extracting extension completed. mechatroner.rainbow-csv
+2023-10-23 09:26:14.077 [info] Extension installed successfully: mhutchie.git-graph
+2023-10-23 09:26:14.079 [info] Extension 'mhutchie.git-graph' v1.30.0 was successfully installed.
+2023-10-23 09:26:14.130 [info] Extension installed successfully: mechatroner.rainbow-csv
+2023-10-23 09:26:14.133 [info] Extension 'mechatroner.rainbow-csv' v3.8.0 was successfully installed.
+2023-10-23 09:26:14.442 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/ms-azuretools.vscode-docker-1.27.0: ms-azuretools.vscode-docker
+2023-10-23 09:26:14.461 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ja-1.83.2023101109: ms-ceintl.vscode-language-pack-ja
+2023-10-23 09:26:14.487 [info] Renamed to /home/vscode/.vscode-remote/extensions/ms-azuretools.vscode-docker-1.27.0
+2023-10-23 09:26:14.512 [info] Renamed to /home/vscode/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ja-1.83.2023101109
+2023-10-23 09:26:14.521 [info] Extracting extension completed. ms-azuretools.vscode-docker
+2023-10-23 09:26:14.533 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-ja
+2023-10-23 09:26:14.564 [info] Extension installed successfully: ms-azuretools.vscode-docker
+2023-10-23 09:26:14.568 [info] Extension 'ms-azuretools.vscode-docker' v1.27.0 was successfully installed.
+2023-10-23 09:26:14.606 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-ja
+2023-10-23 09:26:14.747 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-ja
+2023-10-23 09:26:14.750 [info] Extension 'ms-ceintl.vscode-language-pack-ja' v1.83.2023101109 was successfully installed.
+2023-10-23 09:26:14.998 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/esbenp.prettier-vscode-10.1.0: esbenp.prettier-vscode
+2023-10-23 09:26:15.031 [info] Renamed to /home/vscode/.vscode-remote/extensions/esbenp.prettier-vscode-10.1.0
+2023-10-23 09:26:15.048 [info] Extracting extension completed. esbenp.prettier-vscode
+2023-10-23 09:26:15.554 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/github.copilot-chat-0.8.0: github.copilot-chat
+2023-10-23 09:26:15.597 [info] Renamed to /home/vscode/.vscode-remote/extensions/github.copilot-chat-0.8.0
+2023-10-23 09:26:15.615 [info] Extracting extension completed. github.copilot-chat
+2023-10-23 09:26:16.177 [warning] Extension signature verification failed with error 'ENOENT': github.copilot
+2023-10-23 09:26:19.021 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/github.copilot-1.128.0: github.copilot
+2023-10-23 09:26:19.108 [info] Renamed to /home/vscode/.vscode-remote/extensions/github.copilot-1.128.0
+2023-10-23 09:26:19.129 [info] Extracting extension completed. github.copilot
+2023-10-23 09:26:19.232 [info] Extension installed successfully: github.copilot-chat
+2023-10-23 09:26:19.236 [info] Extension installed successfully: github.copilot
+2023-10-23 09:26:19.251 [info] Extension 'github.copilot' v1.128.0 was successfully installed.
+2023-10-23 09:26:20.938 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/ms-vsliveshare.vsliveshare-1.0.5883: ms-vsliveshare.vsliveshare
+2023-10-23 09:26:21.028 [info] Renamed to /home/vscode/.vscode-remote/extensions/ms-vsliveshare.vsliveshare-1.0.5883
+2023-10-23 09:26:21.044 [info] Extracting extension completed. ms-vsliveshare.vsliveshare
+2023-10-23 09:26:21.071 [info] Extension installed successfully: ms-vsliveshare.vsliveshare
+2023-10-23 09:26:21.073 [info] Extension 'ms-vsliveshare.vsliveshare' v1.0.5883 was successfully installed.
+2023-10-23 09:26:21.297 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/gregorbiswanger.json2ts-0.0.6: gregorbiswanger.json2ts
+2023-10-23 09:26:21.329 [info] Renamed to /home/vscode/.vscode-remote/extensions/gregorbiswanger.json2ts-0.0.6
+2023-10-23 09:26:21.334 [info] Extracting extension completed. gregorbiswanger.json2ts
+2023-10-23 09:26:21.690 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/stringham.move-ts-1.12.0: stringham.move-ts
+2023-10-23 09:26:21.734 [info] Renamed to /home/vscode/.vscode-remote/extensions/stringham.move-ts-1.12.0
+2023-10-23 09:26:21.744 [info] Extracting extension completed. stringham.move-ts
+2023-10-23 09:26:28.168 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/rbbit.typescript-hero-3.0.0: rbbit.typescript-hero
+2023-10-23 09:26:28.196 [info] Renamed to /home/vscode/.vscode-remote/extensions/rbbit.typescript-hero-3.0.0
+2023-10-23 09:26:28.199 [info] Extracting extension completed. rbbit.typescript-hero
+2023-10-23 09:26:28.666 [warning] Extension signature verification failed with error 'ENOENT': loiane.ts-extension-pack
+2023-10-23 09:26:28.679 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/loiane.ts-extension-pack-0.3.0: loiane.ts-extension-pack
+2023-10-23 09:26:28.703 [info] Renamed to /home/vscode/.vscode-remote/extensions/loiane.ts-extension-pack-0.3.0
+2023-10-23 09:26:28.706 [info] Extracting extension completed. loiane.ts-extension-pack
+2023-10-23 09:26:28.731 [info] Extension installed successfully: pmneo.tsimporter
+2023-10-23 09:26:28.732 [info] Extension installed successfully: christian-kohler.path-intellisense
+2023-10-23 09:26:28.732 [info] Extension installed successfully: esbenp.prettier-vscode
+2023-10-23 09:26:28.732 [info] Extension installed successfully: gregorbiswanger.json2ts
+2023-10-23 09:26:28.733 [info] Extension installed successfully: stringham.move-ts
+2023-10-23 09:26:28.733 [info] Extension installed successfully: rbbit.typescript-hero
+2023-10-23 09:26:28.733 [info] Extension installed successfully: loiane.ts-extension-pack
+2023-10-23 09:26:28.738 [info] Extension 'loiane.ts-extension-pack' v0.3.0 was successfully installed.
+2023-10-23 09:26:29.052 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/prisma.prisma-5.4.2: prisma.prisma
+2023-10-23 09:26:29.085 [info] Renamed to /home/vscode/.vscode-remote/extensions/prisma.prisma-5.4.2
+2023-10-23 09:26:29.088 [info] Extracting extension completed. prisma.prisma
+2023-10-23 09:26:29.112 [info] Extension installed successfully: prisma.prisma
+2023-10-23 09:26:29.113 [info] Extension 'prisma.prisma' v5.4.2 was successfully installed.
+2023-10-23 09:30:58.262 [info] New EH opened, aborting shutdown
+2023-10-23 09:48:36.720 [info] [127.0.0.1][17056f00][ExtensionHostConnection] New connection established.
+2023-10-23 09:48:36.721 [info] [127.0.0.1][3ab32b28][ManagementConnection] New connection established.
+2023-10-23 09:48:36.728 [info] [127.0.0.1][17056f00][ExtensionHostConnection] <12244> Launched Extension Host Process.
